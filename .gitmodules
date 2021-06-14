@@ -1,0 +1,3 @@
+[submodule "cielo-eterno"]
+	path = cielo-eterno
+	url = git@git.vauxoo.com:vauxoo/cielo-eterno.git
